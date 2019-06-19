@@ -1,0 +1,18 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.sentMsg {
+  color: #1c7430;
+  text-align: right;
+}
+
+.receiveMsg {
+  color: #4bb1b1;
+  text-align: left;
+}
